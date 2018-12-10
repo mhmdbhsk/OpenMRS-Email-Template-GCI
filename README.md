@@ -4,3 +4,7 @@
 Credit
 - UI Gradients - uigradients.com
 - Google Product Sans Font
+
+Screenshot
+
+![ScreenShot](https://raw.githubusercontent.com/muhammadbhaska/OpenMRS-Email-Template-GCI/master/openmrs-gci.jpg)
